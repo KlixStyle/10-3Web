@@ -1,0 +1,345 @@
+.pic-left {
+	margin-top:1em;
+	clear:both;	
+}	
+
+.firmen article img {
+  padding:30px 0 0 15px!important;
+  max-width: 300px!important;
+}
+
+.newsflash-title_important {
+  background-image:url("../images/important.png");
+  background-repeat: no-repeat;
+  padding-top:2.7em;
+}
+
+.home-intro h1 {
+	margin-bottom:0px!important;
+}
+
+.break {
+	clear:both;
+	margin-bottom:3em;	
+	padding-bottom: 1em;
+}
+
+.boxed {
+	padding: 1em;
+	margin-bottom: 20px;
+	border: 1px solid #777;
+}
+
+.cat-children .category-desc p a {
+	border-width: 0;
+	padding: 0;
+	color:#fff;
+	background-color:#ff5200;
+	vertical-align: middle;
+	display: inline-block;
+	text-align: center;
+	white-space: nowrap;
+	margin: 1em 0;
+	padding: 7px 20px;
+	background-image: none;
+}
+
+/* like read-more button*/
+
+.presse article p a, .button{
+	border-width: 0;
+	margin: 15px 0 0 0;
+	color: #fff!important;
+	background-color: #ff5200;
+	vertical-align: middle;
+	display: inline-block;
+	text-align: center;
+	white-space: nowrap;
+	padding: 7px 20px;
+	background-image: none;
+	text-decoration:none!important;
+}
+
+.presse article p a:hover, .button:hover{
+	background-color: #777777;
+}
+
+/* end read-more */
+
+
+/* Quicklinks */
+#quicklinks .bd-menu-image {
+	color: #fff;
+	font-size: 48px;
+	padding: 30px;
+	border: 1px solid #fff;
+	border-radius: 50%;
+	line-height: 68.57142859px;
+	line-height: 48px;
+}
+
+#quicklinks .bd-menu-image:hover {
+	background-color:#FF6F39;
+}
+
+.bd-menuitem-90 a span {
+	margin-top:2em;
+	display: block;
+}
+/* end Quicklinks */
+
+
+/* nächste Termine */
+.mod-dpcalendar-upcoming-panel__event {
+	background-color:transparent !important;
+	box-shadow: none !important;
+}
+
+.mod-dpcalendar-upcoming-panel__information {
+    padding: 0px;
+}
+
+.mod-dpcalendar-upcoming-panel__information a.dp-link{
+    font-size:1.3em!important;
+}
+.bd-postcontent-15 {
+	padding:1em;
+}
+
+/* Terminkalender */
+
+.fc-button-group .fc-button-primary,.com-dpcalendar-event .dp-button{
+	color:#ff5200 !important;
+	background:none !important;
+	border:none !important;
+	box-shadow:none !important;
+	
+}
+
+.fc-button-group .fc-icon{
+	color:#ff0000;
+}
+.fc-unthemed td.fc-today {
+    background: #777;
+}
+
+/* Terminliste */
+
+.fc-list-view {
+	border:none;
+}
+
+.fc-list-table td.fc-widget-header{
+	color:#ff5200;
+	background:none;	
+	padding-top:2em;
+}
+
+.fc-list-heading-alt {
+	float:left !important;
+	padding-left:0px;
+	font-size:16px;
+}
+
+.fc-list-heading-main {
+	float:right !important;
+}
+
+.fc-list-empty, .fc-body {
+	background-color:#555 !important;
+}
+
+.tippy-popper{
+	display:none
+}
+
+.fc-has-url:hover {
+	color:#000;
+}
+
+.fc-list-item-title a:hover {
+	color:#ff5200;
+}
+
+.com-dpcalendar-event__information {
+	background:none;
+}
+
+.fc-header {
+	background:rgb(26, 37, 47) !important;
+}
+
+.com-dpcalendar-calendar_printable {
+  color:#000!important;
+}
+
+
+/* end Termine */
+
+
+/* Newsflash horizontal*/
+.dateCreated {
+	font-style:italic;
+	font-size:12px;
+	margin-left:15px;
+}
+/* end Newsflash horizontal*/
+
+.filter_subcat, button.btn {
+	margin-right:0.93em;
+	background-color: #ff5200;
+	padding: 4px 12px;
+	border-radius: 2px;
+	color:#ffffff;
+	font-size:15px;
+}
+.bd-tagstyles:not(.bd-custom-bulletlist):not(.shape-only) ul:not([class*="menu"]) {
+    padding: 0px;
+}
+
+.filter_list {
+	padding-left:0;
+	list-style-type:none;
+	display: inline-block;
+}
+
+/* Artikelliste Fächer */
+.category-module li, ul.search li {
+	list-style-type:none;
+}
+
+.category-module li a{
+	display:block;
+	width:90% !important;
+	margin:20px;
+}
+/*end Artikelliste Fächer*/
+
+.content-links {
+	margin-top:3em;
+}
+
+.nav-tabs {
+    border-bottom: none;
+}
+
+.content-links a:hover{
+	border:none;
+}
+
+
+/* fmenu */
+
+#footer-menu{
+	width:80%;
+	border-bottom: 1px dotted #555;
+}
+
+#footer-menu li a {
+	padding-left:0px;
+}
+
+#footer-menu li {
+	border-top: 1px dotted #555;
+}
+
+/* end fmenu */
+
+/* search */
+
+fieldset.phrases {
+	padding:0px !important;
+	border:none;
+}
+
+dl.search-results dt.result-title {
+	padding-top:1em;
+}
+
+.searchintro .badge {
+	background:none;
+	padding:0px;
+	font-size:14px;
+	color: #ddd;
+}
+
+fieldset.phrases .phrases-box .controls label.radio {
+	margin-right:1em !important;
+}
+
+select#limit {
+	width:auto !important;
+}
+
+/* end search */
+
+/* featured articles */
+.featured .bd-postimage-6 {
+	margin-top:25px;
+	display:block;
+	width:60px;
+}
+.featured .pull-left {
+	float:none !important;
+}
+
+/* end featured articles */
+
+/* Home-Slider */
+.bd-joomlaposition-3 .bd-block, .bd-joomlaposition-8 .bd-block, .bd-joomlaposition-16 .bd-block, .bd-joomlaposition-18 .bd-block, .bd-joomlaposition-17 .bd-block, .bd-joomlaposition-22 .bd-block, .bd-joomlaposition-26 .bd-block, .bd-joomlaposition-21 .bd-block, .bd-joomlaposition-24 .bd-block, .bd-joomlaposition-27 .bd-block, .bd-joomlaposition-30 .bd-block, .bd-joomlaposition-28 .bd-block  {
+	margin:0px !important;
+}
+
+
+/* end Home-Slider */
+
+
+/* Vertretungsplan*/
+
+input.flatpickr {
+  width:auto!important;
+}
+
+/* end Vertretungsplan */
+
+/* Kontaktformular */
+
+.well {
+	background-color:transparent!important;
+	border:none!important;
+	padding:0!important;
+}
+
+.form-horizontal .control-label {
+  text-align: left!important;
+}
+
+/* right */
+
+.contact-page h4 {
+	margin:3em 0 1em 0!important;
+}
+
+.contact-page p {
+	margin-bottom:2em!important;
+}
+
+.contact-page a {
+background-color: transparent!important;
+border-top-left-radius: 0px!important;
+border-top-right-radius: 0px!important;
+border-bottom-right-radius: 0px!important;
+border-bottom-left-radius: 0px!important;
+padding: 0px!important;
+color: #ddd!important;
+text-transform: none!important;
+}
+/* end Kontaktformular */
+
+
+
+@media screen and (max-width: 400px) {
+
+.bd-joomlaposition-10 #lnee_131 ul.latestnews-items li.latestnews-item {width:100%!important;}
+}
+
